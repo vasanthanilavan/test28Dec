@@ -1,1 +1,2 @@
-touch /home/ubuntu/testgit.txt
+cd /home/ubuntu/
+touch testgit.txt
