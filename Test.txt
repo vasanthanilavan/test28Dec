@@ -1,1 +1,1 @@
-this a test to integrate git and jenkins
+touch /home/ubuntu/testgit.txt
